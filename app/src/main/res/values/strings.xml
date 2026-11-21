@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mnemo</string>
+    <string name="add_to_mnemo">Dodaj do Mnemo</string>
+    <string name="widget_name">Mnemo – słówko</string>
+    <string name="widget_desc">Słówko na ekranie głównym: krótkie, częste ekspozycje między sesjami.</string>
+</resources>
